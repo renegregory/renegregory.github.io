@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="/style.css">
-<img src="/headshot_circle.png" class="profile-picture" alt="Profile Picture">
-
 # Data Analyst
 
 ### Work Experience
