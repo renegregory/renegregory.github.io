@@ -26,4 +26,4 @@
 
 ### Implemented custom Star-schema.
 
-![Me at work, colorized](asssets/img/y.gif)
+![Me at work, colorized](/asssets/img/y.gif)
