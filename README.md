@@ -1,7 +1,7 @@
 # Data Analyst (work in progress)
 
 #### Technical skills: Azure DevOps, Python, SQL (incl. Spark Version) 
-#### {{ site.linkedin | markdownify }}
+#### [Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/rene-gregory)
 
 ## Work Experience
 **Data Analyst @ AXA Assistance CZ, s.r.o. - Ostrava (_6/2024 - Current_)**
