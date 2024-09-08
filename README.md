@@ -1,3 +1,10 @@
+<header>
+  <h1>{{ site.title }}</h1>
+  <img src="{{ site.logo }}" alt="Logo">
+  <p>{{ site.description }}</p>
+  <p>{{ site.linkedin | markdownify }}</p> <!-- Render Markdown from the config -->
+</header>
+
 # Data Analyst
 
 #### Technical skills: Azure DevOps, Python, SQL (incl. Spark Version) 
