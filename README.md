@@ -27,5 +27,5 @@
 ### Implemented custom Star-schema.
 <br><br>
 <br><br>
-**Me at work, colorized**
+**Me at work 2024, colorized**
 ![Me at work, colorized](/assets/img/y.gif)
