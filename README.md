@@ -1,13 +1,7 @@
-<header>
-  <h1>{{ site.title }}</h1>
-  <img src="{{ site.logo }}" alt="Logo">
-  <p>{{ site.description }}</p>
-  <p>{{ site.linkedin | markdownify }}</p> <!-- Render Markdown from the config -->
-</header>
-
 # Data Analyst
 
 #### Technical skills: Azure DevOps, Python, SQL (incl. Spark Version) 
+#### {{ site.linkedin | markdownify }}
 
 ## Work Experience
 **Data Analyst @ AXA Assistance CZ, s.r.o. - Ostrava (_6/2024 - Current_)**
