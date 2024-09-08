@@ -1,4 +1,4 @@
-# Data Analyst (🛠 work in progress 🏗)
+# Data Analyst (🛠 in progress 🏗)
 
 #### Technical skills: Azure DevOps, Python, SQL (incl. Spark Version) 
 #### [Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/rene-gregory)
