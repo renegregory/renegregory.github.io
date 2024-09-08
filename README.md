@@ -18,9 +18,9 @@ Digital Marketing Specialist
 
 ### Education
 VŠB - Technical University of Ostrava
-- Information Technology, 2nd year
+- Information Technology
 
 Secondary Technical School of Chemistry Heyrovský
 Academics
-- Analytical Chemistry, High School Diploma
+- Analytical Chemistry
 
