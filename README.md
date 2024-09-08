@@ -3,15 +3,15 @@
 #### Technical skills: Python & SQL incl. Spark Version, Azure DevOps 
 
 ## Work Experience
-**Junior Data Analyst at AXA Assistance CZ, s.r.o. - Czechia, Ostrava (_June 2024 - Present_)**
+**Junior Data Analyst at AXA Assistance CZ, s.r.o. - Czechia, Ostrava (_6/2024 - Current_)**
 - ETL, building pipelines, monitoring, creating reports using X, Y
 - Azure Devops, Databricks (pySpark, SparkSQL), Data Factory, PowerBI    
 
-**System Engineer at MALFINI, a.s. - Czechia, Ostrava (_February 2024 - May 2024_)**
+**System Engineer at MALFINI, a.s. - Czechia, Ostrava (_2/2024 - 5/2024_)**
 - CI/CD of system & process improvements, engineering, consulting cross-departments (IT, Logistics, Director)
 - MS Office, MS-SQL
   
-**Digital Marketing Specialist at Meta Inc. - Poland, Gdańsk (_December 2022 - January 2024_)**
+**Digital Marketing Specialist at Meta Inc. - Poland, Gdańsk (_12/2022 - 1/2024_)**
 - Business Analysis, developing and implementing digital marketing strategies for clients
 - CRM (Customer managament, Ads Campaigns, reports)
 
