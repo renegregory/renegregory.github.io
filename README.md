@@ -1,7 +1,7 @@
 # Data Analyst (work in progress)
 
 #### Technical skills: Azure DevOps, Python, SQL (incl. Spark Version) 
-#### { site.linkedin | markdownify }
+#### {{ site.linkedin | markdownify }}
 
 ## Work Experience
 **Data Analyst @ AXA Assistance CZ, s.r.o. - Ostrava (_6/2024 - Current_)**
