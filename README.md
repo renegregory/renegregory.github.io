@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst (work in progress)
 
 #### Technical skills: Azure DevOps, Python, SQL (incl. Spark Version) 
 #### { site.linkedin | markdownify }
@@ -22,7 +22,7 @@
 
 ## Projects
 
-### Custom 2D game made using Unity called "Arcade Maniac"
+### Custom 2D game made using Unity called "Arcade Maniac".
 
-### Implemented custom Star-schema DB using SparkSQL
+### Implemented custom Star-schema.
 
