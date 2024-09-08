@@ -17,8 +17,8 @@
 - CRM (Customer managament, Ads Campaigns, reports).
 
 ## Education
-- VŠB - Technical University of Ostrava | Information Technology
-- SPŠCHG Heyrovský Academics Ostrava | Analytical Chemistry
+- VŠB - Technical University of Ostrava | _Information Technology_
+- SPŠCHG Heyrovský Academics Ostrava | _Analytical Chemistry_
 
 ## Projects
 
