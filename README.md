@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style.css">
-![Profile Picture](/headshot_circle.png){: .profile-picture }
+<img src="/headshot_circle.png" class="profile-picture" alt="Profile Picture">
 
 # Data Analyst
 
