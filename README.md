@@ -1,4 +1,4 @@
-# Data Analyst (work in progress)
+# Data Analyst (🛠 work in progress 🏗)
 
 #### Technical skills: Azure DevOps, Python, SQL (incl. Spark Version) 
 #### [Feel free to connect with me on LinkedIn](https://www.linkedin.com/in/rene-gregory)
@@ -27,4 +27,4 @@
 ### Implemented custom Star-schema.
 <br><br>
 ![Me at work, colorized](/assets/img/y.gif)
-**                  Me at work 2024, colorized**
+Me at work 2024, colorized
