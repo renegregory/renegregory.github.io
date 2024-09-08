@@ -25,5 +25,7 @@
 ### Custom 2D game made using Unity called "Arcade Maniac".
 
 ### Implemented custom Star-schema.
-
+<br><br>
+<br><br>
+**Me at work, colorized**
 ![Me at work, colorized](/assets/img/y.gif)
