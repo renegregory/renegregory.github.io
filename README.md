@@ -7,7 +7,7 @@
 - ETL, building pipelines, monitoring, creating reports using X, Y
 - Azure Devops, Databricks (pySpark, SparkSQL), Data Factory, PowerBI    
 
-**System Engineer @ MALFINI, a.s. - Czechia, Ostrava (_February 2024 - May 2024_)**
+**System Engineer at MALFINI, a.s. - Czechia, Ostrava (_February 2024 - May 2024_)**
 - CI/CD of system & process improvements, engineering, consulting cross-departments (IT, Logistics, Director)
 - MS Office, MS-SQL
   
