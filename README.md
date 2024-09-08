@@ -1,11 +1,11 @@
 # Data Analyst
 
 ### Education
-Analytical Chemistry, High School Diploma
-Information Technology, 2nd year
+- Analytical Chemistry, High School Diploma
+- Information Technology, 2nd year
 
 ### Work Experience
-Junior Data Analyst at AXA Assistance CZ, s.r.o.
+#####Junior Data Analyst at AXA Assistance CZ, s.r.o.
 Czech Republic, Ostrava
 6/2024 - Current
 
