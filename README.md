@@ -1,5 +1,3 @@
-# renegregory.github.io
-
 # Data Analyst
 
 ### Education
