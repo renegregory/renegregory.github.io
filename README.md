@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical skills: Python & SQL incl. Spark Version, Azure DevOps 
+#### Technical skills: Python, SQL incl. Spark Version, Azure DevOps 
 
 ## Work Experience
 **Junior Data Analyst at AXA Assistance CZ, s.r.o. - Czechia, Ostrava (_June 2024 - Present_)**
