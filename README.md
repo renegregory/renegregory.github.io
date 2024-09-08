@@ -1,3 +1,5 @@
+![Profile Picture](/headshot_circle.png){: .profile-picture }
+
 # Data Analyst
 
 #### Technical skills: Python & SQL incl. Spark Version, Azure DevOps 
