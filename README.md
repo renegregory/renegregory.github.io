@@ -4,7 +4,7 @@
 
 ## Work Experience
 **Data Analyst @ AXA Assistance CZ, s.r.o. - Ostrava (_6/2024 - Current_)**
-- ETL, building pipelines, monitoring, creating reports using X, Y
+- ETL, building pipelines, monitoring, creating reports using 
 - Azure Devops, Databricks (pySpark, SparkSQL), Data Factory, PowerBI    
 
 **System Engineer @ MALFINI, a.s. - Ostrava (_2/2024 - 5/2024_)**
