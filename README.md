@@ -17,7 +17,7 @@
 
 ## Education
 - VŠB - Technical University of Ostrava | Information Technology
-- Secondary Technical School of Chemistry Heyrovský Academics | Analytical Chemistry
+- SPŠCHG Ostrava | Analytical Chemistry
 
 ## Projects
 
