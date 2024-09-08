@@ -3,4 +3,3 @@ logo: /assets/img/headshot_circle.png
 # description: "A data-driven professional with passion for data engineering & analytics, currently working as Data Analyst." 
 show_downloads: true 
 theme: jekyll-theme-minimal
-markdown: kramdown
